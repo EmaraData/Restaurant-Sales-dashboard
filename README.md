@@ -1,4 +1,4 @@
-# 🍕 Restaurant Sales Data Analysis & Dashboard
+# 🍕 Restaurant Sales Analysis Dashboard
 
 ## 📌 Project Overview
 This project involves data analysis of a restaurant's sales (specifically a Pizza restaurant) using **Microsoft Excel**. The goal is to transform raw transactional data into an interactive dashboard that provides actionable business insights regarding revenue generation, customer behavior, and menu performance.
